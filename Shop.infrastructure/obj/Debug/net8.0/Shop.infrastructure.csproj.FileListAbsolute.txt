@@ -1,0 +1,36 @@
+C:\Users\THE-BEST\Desktop\Shop\Shop\Shop.infrastructure\bin\Debug\net8.0\Shop.infrastructure.deps.json
+C:\Users\THE-BEST\Desktop\Shop\Shop\Shop.infrastructure\bin\Debug\net8.0\Shop.infrastructure.runtimeconfig.json
+C:\Users\THE-BEST\Desktop\Shop\Shop\Shop.infrastructure\bin\Debug\net8.0\Shop.infrastructure.dll
+C:\Users\THE-BEST\Desktop\Shop\Shop\Shop.infrastructure\bin\Debug\net8.0\Shop.infrastructure.pdb
+C:\Users\THE-BEST\Desktop\Shop\Shop\Shop.infrastructure\bin\Debug\net8.0\Shop.Core.dll
+C:\Users\THE-BEST\Desktop\Shop\Shop\Shop.infrastructure\bin\Debug\net8.0\Shop.Core.pdb
+C:\Users\THE-BEST\Desktop\Shop\Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.infrastructure.csproj.AssemblyReference.cache
+C:\Users\THE-BEST\Desktop\Shop\Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THE-BEST\Desktop\Shop\Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.infrastructure.AssemblyInfoInputs.cache
+C:\Users\THE-BEST\Desktop\Shop\Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.infrastructure.AssemblyInfo.cs
+C:\Users\THE-BEST\Desktop\Shop\Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\THE-BEST\Desktop\Shop\Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.inf.E9580AC7.Up2Date
+C:\Users\THE-BEST\Desktop\Shop\Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.infrastructure.dll
+C:\Users\THE-BEST\Desktop\Shop\Shop\Shop.infrastructure\obj\Debug\net8.0\refint\Shop.infrastructure.dll
+C:\Users\THE-BEST\Desktop\Shop\Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.infrastructure.pdb
+C:\Users\THE-BEST\Desktop\Shop\Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.infrastructure.genruntimeconfig.cache
+C:\Users\THE-BEST\Desktop\Shop\Shop\Shop.infrastructure\obj\Debug\net8.0\ref\Shop.infrastructure.dll
+C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\bin\Debug\net8.0\Shop.infrastructure.deps.json
+C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\bin\Debug\net8.0\Shop.infrastructure.runtimeconfig.json
+C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\bin\Debug\net8.0\Shop.infrastructure.dll
+C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\bin\Debug\net8.0\Shop.infrastructure.pdb
+C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\bin\Debug\net8.0\Shop.Core.dll
+C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\bin\Debug\net8.0\Shop.Domain.dll
+C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\bin\Debug\net8.0\Shop.Core.pdb
+C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\bin\Debug\net8.0\Shop.Domain.pdb
+C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.infrastructure.csproj.AssemblyReference.cache
+C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.infrastructure.AssemblyInfoInputs.cache
+C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.infrastructure.AssemblyInfo.cs
+C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.inf.E9580AC7.Up2Date
+C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.infrastructure.dll
+C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\obj\Debug\net8.0\refint\Shop.infrastructure.dll
+C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.infrastructure.pdb
+C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.infrastructure.genruntimeconfig.cache
+C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\obj\Debug\net8.0\ref\Shop.infrastructure.dll

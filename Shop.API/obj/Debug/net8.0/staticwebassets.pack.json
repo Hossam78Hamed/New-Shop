@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\THE-BEST\\Desktop\\Shop\\New Shop\\Shop.API\\wwwroot\\Images\\a1\\3f2f4676-3120-4a30-9d27-66f02c908471.png",
+      "PackagePath": "staticwebassets\\Images\\a1\\3f2f4676-3120-4a30-9d27-66f02c908471.png"
+    },
+    {
+      "Id": "C:\\Users\\THE-BEST\\Desktop\\Shop\\New Shop\\Shop.API\\wwwroot\\Images\\a\\9b7db91d-873f-4741-abf1-10df2380f1ad.png",
+      "PackagePath": "staticwebassets\\Images\\a\\9b7db91d-873f-4741-abf1-10df2380f1ad.png"
+    },
+    {
+      "Id": "C:\\Users\\THE-BEST\\Desktop\\Shop\\New Shop\\Shop.API\\wwwroot\\Images\\a\\f11310e3-5f45-4bb9-bb9b-a0396558fa9e.png",
+      "PackagePath": "staticwebassets\\Images\\a\\f11310e3-5f45-4bb9-bb9b-a0396558fa9e.png"
+    },
+    {
+      "Id": "C:\\Users\\THE-BEST\\Desktop\\Shop\\New Shop\\Shop.API\\wwwroot\\Images\\afa\\1a2dac02-acc6-4b04-9ed7-fe05f85dc791.png",
+      "PackagePath": "staticwebassets\\Images\\afa\\1a2dac02-acc6-4b04-9ed7-fe05f85dc791.png"
+    },
+    {
+      "Id": "C:\\Users\\THE-BEST\\Desktop\\Shop\\New Shop\\Shop.API\\wwwroot\\Images\\asda\\3a4ff3ec-a134-4cd3-987d-cf7a1183d287.png",
+      "PackagePath": "staticwebassets\\Images\\asda\\3a4ff3ec-a134-4cd3-987d-cf7a1183d287.png"
+    },
+    {
+      "Id": "C:\\Users\\THE-BEST\\Desktop\\Shop\\New Shop\\Shop.API\\wwwroot\\Images\\ffff\\348c001b-d064-4a0b-b654-63277f6b040f.png",
+      "PackagePath": "staticwebassets\\Images\\ffff\\348c001b-d064-4a0b-b654-63277f6b040f.png"
+    },
+    {
+      "Id": "C:\\Users\\THE-BEST\\Desktop\\Shop\\New Shop\\Shop.API\\wwwroot\\Images\\hosam1\\37c3625d-5ebd-4177-bc06-669576cdcdb8.png",
+      "PackagePath": "staticwebassets\\Images\\hosam1\\37c3625d-5ebd-4177-bc06-669576cdcdb8.png"
+    },
+    {
+      "Id": "C:\\Users\\THE-BEST\\Desktop\\Shop\\New Shop\\Shop.API\\wwwroot\\Images\\hosam1\\413696d0-f064-4531-aae4-3683266ac7f8.png",
+      "PackagePath": "staticwebassets\\Images\\hosam1\\413696d0-f064-4531-aae4-3683266ac7f8.png"
+    },
+    {
+      "Id": "C:\\Users\\THE-BEST\\Desktop\\Shop\\New Shop\\Shop.API\\wwwroot\\Images\\qw\\4567ca91-f913-4fe9-8e70-9d8718195c1c.png",
+      "PackagePath": "staticwebassets\\Images\\qw\\4567ca91-f913-4fe9-8e70-9d8718195c1c.png"
+    },
+    {
+      "Id": "C:\\Users\\THE-BEST\\Desktop\\Shop\\New Shop\\Shop.API\\wwwroot\\Images\\qw\\cab79973-1bfa-4652-8b10-4f28476fb582.png",
+      "PackagePath": "staticwebassets\\Images\\qw\\cab79973-1bfa-4652-8b10-4f28476fb582.png"
+    },
+    {
+      "Id": "C:\\Users\\THE-BEST\\Desktop\\Shop\\New Shop\\Shop.API\\wwwroot\\Images\\www1\\74a9b811-5471-45d7-9f63-9eda90ae9b2c.png",
+      "PackagePath": "staticwebassets\\Images\\www1\\74a9b811-5471-45d7-9f63-9eda90ae9b2c.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Shop.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Shop.API.props",
+      "PackagePath": "build\\Shop.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Shop.API.props",
+      "PackagePath": "buildMultiTargeting\\Shop.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Shop.API.props",
+      "PackagePath": "buildTransitive\\Shop.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
