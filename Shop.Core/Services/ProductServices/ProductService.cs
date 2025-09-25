@@ -22,6 +22,7 @@ namespace Shop.Core.Services.ProductServices
         private readonly IPhotoService photoService;
         private readonly IMapper mapper;
         int git1=4;int c = 2;
+        int git2 = 4; int c2 = 2;
 
         public ProductService( IProductRepository _productRepository,IMapper _mapper,IPhotoService _photoService) {
             productRepository = _productRepository;
