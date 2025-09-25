@@ -375,6 +375,7 @@ C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.API\obj\Debug\net8.0\Shop.API.Assem
 C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.API\obj\Debug\net8.0\Shop.API.csproj.CoreCompileInputs.cache
 C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.API\obj\Debug\net8.0\Shop.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.API\obj\Debug\net8.0\Shop.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.API\obj\Debug\net8.0\Shop.API.sourcelink.json
 C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.API\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.API\obj\Debug\net8.0\staticwebassets\msbuild.Shop.API.Microsoft.AspNetCore.StaticWebAssets.props

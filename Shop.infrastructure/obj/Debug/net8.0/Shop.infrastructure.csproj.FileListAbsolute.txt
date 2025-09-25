@@ -28,6 +28,7 @@ C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\obj\Debug\net8.0\Sho
 C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.infrastructure.AssemblyInfoInputs.cache
 C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.infrastructure.AssemblyInfo.cs
 C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.infrastructure.sourcelink.json
 C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.inf.E9580AC7.Up2Date
 C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\obj\Debug\net8.0\Shop.infrastructure.dll
 C:\Users\THE-BEST\Desktop\Shop\New Shop\Shop.infrastructure\obj\Debug\net8.0\refint\Shop.infrastructure.dll
